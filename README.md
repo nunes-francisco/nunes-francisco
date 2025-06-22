@@ -1,5 +1,4 @@
-<!--<h2 align="left">👋 Olá! Eu sou Francico Nunes</h2>-->
-# 👋 Olá! Eu sou Francico Nunes
+<h2 align="left">👋 Olá! Eu sou Francico Nunes</h2>
 
 🎯 Desenvolvedor Backend e Engenheiro DevOps com 20 anos de experiência  
 💡 Apaixonado por automação, arquiteturas distribuídas e boas práticas de segurança  
