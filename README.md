@@ -38,13 +38,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
+ 
 ## 📂 Repositórios em Destaque
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=backup-to-s3&theme=default" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=backup-to-s3&theme=default" />-->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=default" />
 </p>
 
 ## 📈 Estatísticas GitHub
