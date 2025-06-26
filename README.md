@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=backup-to-s3&theme=default" />
 </p>
 
