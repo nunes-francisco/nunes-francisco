@@ -41,7 +41,10 @@
  
 ## 📂 Repositórios em Destaque
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" />-->
+  <a href="https://github.com/nunes-francisco/zipcode-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" alt="Repositório zipcode-api"/>
+</a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=default" />
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=default" />
