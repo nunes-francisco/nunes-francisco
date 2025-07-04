@@ -43,12 +43,18 @@
 <p align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" />-->
   <a href="https://github.com/nunes-francisco/zipcode-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=default" alt="Repositório zipcode-api"/>
-</a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=tokyonight" alt="Repositório zipcode-api"/>
+  </a>
+  <a href="https://github.com/nunes-francisco/product_manager_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/nunes-francisco/pyprocctl">
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=backup_to_cloud_redis&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/nunes-francisco/backup_to_cloud_redis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=backup_to_cloud_redis&theme=tokyonight" />
+  </a> 
 </p>
 
 ## 📈 Estatísticas GitHub
