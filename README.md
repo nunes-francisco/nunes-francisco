@@ -2,8 +2,12 @@
 # 👋 Olá! Eu sou Francico Nunes
 
 🎯 Desenvolvedor Backend e Engenheiro DevOps com 20 anos de experiência  
-💡 Apaixonado por automação, arquiteturas distribuídas e boas práticas de segurança  
+💡 Apaixonado por automação, arquiteturas distribuídas e boas práticas de desenvolvimento  
 🚀 Experiência com Python, Docker, AWS, CI/CD, Git, Shell Script, entre outros
+
+
+_"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tarefas complicadas para as ferramentas."_
+
 
 ###
 ## 💻 Habilidades Técnicas:
@@ -88,6 +92,15 @@
 
 ###
 
+### Conecte-se comigo:
+
+[![Email](https://img.shields.io/badge/Email-me-2ea44f?style=flat-square&logo=gmail)](mailto:fra.a.nunez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FranciscoNunes-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/francisco-a-nunes)
+[![GitHub](https://img.shields.io/badge/GitHub-FranciscoNunes-181717?style=flat-square&logo=github)](https://github.com/SeuNomeDeUsuario)
+[![Twitter](https://img.shields.io/badge/Twitter-SeuHandle-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/SeuHandleDoTwitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-SeuSite-FF5722?style=flat-square&logo=codesandbox)](https://seusite.com)
+[![Blog](https://img.shields.io/badge/Blog-SeuBlog-FF6F00?style=flat-square&logo=dev.to)](https://dev.to/seublog)
+
 <!--<div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -99,31 +112,15 @@
 
 
 ###
-
+<!--
+Snake aniation
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/nunes-francisco/nunes-francisco/refs/heads/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <!--
 **francisco-nunes/francisco-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-**nunes-francisco/nunes-francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
