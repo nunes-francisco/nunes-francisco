@@ -70,5 +70,4 @@ Snake aniation
 <br clear="both">
 <img src="https://raw.githubusercontent.com/nunes-francisco/nunes-francisco/refs/heads/output/snake.svg" alt="Snake animation" />
 -->
----
 
