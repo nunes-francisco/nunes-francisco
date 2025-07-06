@@ -1,4 +1,3 @@
-<!--<h2 align="left">👋 Olá! Eu sou Francico Nunes</h2>-->
 # 👋 Olá! Eu sou Francico Nunes
 
 🎯 Desenvolvedor Backend e Engenheiro DevOps com 20 anos de experiência  
@@ -90,17 +89,6 @@ _"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tare
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>-->
 
-###
-
-### Conecte-se comigo:
-
-[![Email](https://img.shields.io/badge/Email-me-2ea44f?style=flat-square&logo=gmail)](mailto:fra.a.nunez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FranciscoNunes-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/francisco-a-nunes)
-[![GitHub](https://img.shields.io/badge/GitHub-FranciscoNunes-181717?style=flat-square&logo=github)](https://github.com/SeuNomeDeUsuario)
-[![Twitter](https://img.shields.io/badge/Twitter-SeuHandle-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/SeuHandleDoTwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SeuSite-FF5722?style=flat-square&logo=codesandbox)](https://seusite.com)
-[![Blog](https://img.shields.io/badge/Blog-SeuBlog-FF6F00?style=flat-square&logo=dev.to)](https://dev.to/seublog)
-
 <!--<div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -111,25 +99,20 @@ _"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tare
 </div> -->
 
 
-###
 <!--
 Snake aniation
 <br clear="both">
 <img src="https://raw.githubusercontent.com/nunes-francisco/nunes-francisco/refs/heads/output/snake.svg" alt="Snake animation" />
 -->
-###
 
-<!--
-**francisco-nunes/francisco-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Minhas Tecnologias:
 
-Here are some ideas to get you started:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo" /> **JavaScript:** Linguagem essencial para desenvolvimento web e backend com Node.js.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" /> **TypeScript:** Garante maior segurança e escalabilidade em projetos complexos.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" /> **React:** Minha principal biblioteca para construção de interfaces de usuário reativas.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" /> **HTML5:** A base de toda estrutura web moderna.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" /> **CSS3:** Para estilização e design responsivo de aplicações web.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" /> **Python:** Utilizado para scripts, automação e desenvolvimento backend.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" /> **C#:** Experiência em desenvolvimento de aplicações com .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
