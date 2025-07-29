@@ -54,7 +54,14 @@ _"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tare
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=custom_service&theme=tokyonight" />
-    
+  </a>
+  <a href="https://github.com/nunes-francisco/custom_service">
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=custom_service&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/nunes-francisco/config_sync">
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=config_sync&theme=tokyonight" />
   </a>
   <a href="https://github.com/nunes-francisco/backup_to_cloud_redis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=backup_to_cloud_redis&theme=tokyonight" />
