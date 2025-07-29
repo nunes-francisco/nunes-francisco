@@ -53,7 +53,6 @@ _"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tare
   <a href="https://github.com/nunes-francisco/pyprocctl">
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=custom_service&theme=tokyonight" />
   </a>
   <a href="https://github.com/nunes-francisco/custom_service">
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
