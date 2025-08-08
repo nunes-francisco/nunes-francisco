@@ -54,8 +54,8 @@ _"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tare
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=pyprocctl&theme=tokyonight" />
   </a>
-  <a href="https://github.com/nunes-francisco/cover_me">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=cover_me&theme=tokyonight" />
+  <a href="https://github.com/nunes-francisco/cover">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=cover&theme=tokyonight" />
   </a>
     <a href="https://github.com/nunes-francisco/config_sync">
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
