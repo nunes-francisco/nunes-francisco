@@ -47,8 +47,8 @@ _"Programar é uma tarefa intelectualmente desafiadora... por isso deixe as tare
   <a href="https://github.com/nunes-francisco/zipcode-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=zipcode-api&theme=tokyonight" alt="Repositório zipcode-api"/>
   </a>
-  <a href="https://github.com/nunes-francisco/product_manager_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=product_manager_api&theme=tokyonight" />
+  <a href="https://github.com/nunes-francisco/warehouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=warehouse&theme=tokyonight" />
   </a>
   <a href="https://github.com/nunes-francisco/pyprocctl">
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nunes-francisco&repo=devops-pipeline-example&theme=default" />-->
